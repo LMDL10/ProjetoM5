@@ -40,22 +40,27 @@ namespace Projeto_M5
 
         }
 
+        public static void  inserir0()
+        {
+            int num 1;
+            dados[] novo = new dados[]
+            Console.WriteLine("Quantos livros quer introduzir?");
+            num = Int.Parse(Console.ReadLine());
+            //Ler valores para o Vetor
+            For(i = tam;i < (tam + num );i++)
+            {
+               8 
+
+            
+        }
+        
+        static dados [] dados 1 = new dados[100];  
+        static tam = 0;
 
         static void Main(string[] args)
         {
             //Declaração das variaveis 
             int num = 0, num1 = 1, num2 = 0;
-
-            int num 1;
-            dados[] novo = new dados[]
-            
-            
-            
-            
-            
-            
-            
-            
             
             //Introdução do primeiro valor
             Console.WriteLine("Bem vindo a biblioteca");
@@ -63,6 +68,13 @@ namespace Projeto_M5
             Console.WriteLine("****Menu****\n1 para adicionar uma obra\n2 para ver as informaçoes das obras\n3 Sair\n--------------------------------------");
             num = Convert.ToInt32(Console.ReadLine());
 
+
+            
+            
+            
+            
+            
+            
             Console.WriteLine("De que tipo quer introduzir: \n1 para ciências exatas\n2 para ciências humanas\n3 para ciências biomédicas");
             num2 = Convert.ToInt32(Console.ReadLine());
 
