@@ -46,6 +46,17 @@ namespace Projeto_M5
             //Declaração das variaveis 
             int num = 0, num1 = 1, num2 = 0;
 
+            int num 1;
+            dados[] novo = new dados[]
+            
+            
+            
+            
+            
+            
+            
+            
+            
             //Introdução do primeiro valor
             Console.WriteLine("Bem vindo a biblioteca");
             Console.WriteLine("--------------------------------------");
@@ -71,9 +82,8 @@ namespace Projeto_M5
             Console.Clear();
             break;
 
-             case 3;
+            case 3;
             Console.Clear();
-            sair(); // dps criar uma funçao com este nome
             Console.WriteLine("Qualquer tecla para continuar");
             Console.ReadKey();
             Console.Clear();
