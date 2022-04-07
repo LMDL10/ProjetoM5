@@ -42,14 +42,15 @@ namespace Projeto_M5
 
         public static void  inserir0()
         {
-            int num 1;
+            int num, i;
             dados[] novo = new dados[]
             Console.WriteLine("Quantos livros quer introduzir?");
             num = Int.Parse(Console.ReadLine());
             //Ler valores para o Vetor
             For(i = tam;i < (tam + num );i++)
             {
-               8 
+                
+               
 
             
         }
@@ -67,9 +68,11 @@ namespace Projeto_M5
             Console.WriteLine("--------------------------------------");
             Console.WriteLine("****Menu****\n1 para adicionar uma obra\n2 para ver as informaçoes das obras\n3 Sair\n--------------------------------------");
             num = Convert.ToInt32(Console.ReadLine());
+            
+            do 
+                
 
-
-        }
+        
             
             
             
