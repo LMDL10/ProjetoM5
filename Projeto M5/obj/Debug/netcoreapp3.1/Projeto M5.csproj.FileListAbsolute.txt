@@ -1,0 +1,14 @@
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\obj\Debug\netcoreapp3.1\Projeto M5.csproj.AssemblyReference.cache
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\obj\Debug\netcoreapp3.1\Projeto M5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\obj\Debug\netcoreapp3.1\Projeto M5.AssemblyInfoInputs.cache
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\obj\Debug\netcoreapp3.1\Projeto M5.AssemblyInfo.cs
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\obj\Debug\netcoreapp3.1\Projeto M5.csproj.CoreCompileInputs.cache
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\bin\Debug\netcoreapp3.1\Projeto M5.exe
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\bin\Debug\netcoreapp3.1\Projeto M5.deps.json
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\bin\Debug\netcoreapp3.1\Projeto M5.runtimeconfig.json
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\bin\Debug\netcoreapp3.1\Projeto M5.runtimeconfig.dev.json
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\bin\Debug\netcoreapp3.1\Projeto M5.dll
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\bin\Debug\netcoreapp3.1\Projeto M5.pdb
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\obj\Debug\netcoreapp3.1\Projeto M5.dll
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\obj\Debug\netcoreapp3.1\Projeto M5.pdb
+C:\Users\Luís lopes\Desktop\Projeto M5\Projeto M5\obj\Debug\netcoreapp3.1\Projeto M5.genruntimeconfig.cache
