@@ -69,7 +69,7 @@ namespace Projeto_M5
             num = Convert.ToInt32(Console.ReadLine());
 
 
-            
+        }
             
             
             
@@ -125,31 +125,6 @@ namespace Projeto_M5
                         livrocienexata[i].Codigo = int.Parse(Console.ReadLine());
                         Console.WriteLine("Introduza o Numero de Paginas");
                         livrocienexata[i].Npáginas = int.Parse(Console.ReadLine());
-
-
-                    }
-                    if (num2 == 2)
-                    {
-                        //para ciências humanas
-                    }
-                    if (num2 == 3)
-                    {
-                        //ciências biomédicas
-                    }
-
-                }
-            }
-
-            if (num == 2)
-            {
-                //Consulta às informações de uma obra.
-            }
-
-            if (num == 3)
-            {
-                Console.WriteLine("Clique em qualquer tecla para sair");
-                Console.ReadLine();
-            }
 
         }
     }
